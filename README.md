@@ -4,5 +4,5 @@
 
 🎓 I am  highly motivated, reliable, hardworking and eager to learn from experienced professionals. I can adapt to new environments with positivity and enthusiasm. I work well in a team, with respect for different perspectives, especially in a multicultural setting. I am seeking new challenges to further improve my skills and capability.  
 
-📞 080-742-1388
+📞 080-742-1388  
 📧 wissanu.khong@gmail.com
