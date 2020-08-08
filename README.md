@@ -1,6 +1,6 @@
 # ✋ Hi I'm Wissanu
 
-<img style=" width:1127px; height:344px" src="Picture/Wissanu-Branner.png" alt="profile">
+<img style=" width:1127px; height:344px" src="https://github.com/Wissanukhong/Wissanukhong/blob/master/Picture/Wissanu-Branner.png?raw=true" alt="profile">
 
 ## 📃 About me
 
