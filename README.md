@@ -1,4 +1,4 @@
-# ✋ Hi I'm Wissanu
+# 👏 Hi there
 
 <img style=" width:1127px; height:344px" src="https://github.com/Wissanukhong/Wissanukhong/blob/master/Picture/Profile-v2.png?raw=true" alt="profile">
 
@@ -8,9 +8,9 @@
 
 <!-- 🌈 การเขียนโปรแกรมเปรียบเหมือนงานศิลปะที่สามารถใช้ความคิดสร้างสรรค์ จินตนาการ คณิตศาสตร์ งานฝีมือ ความประณีต อารมณ์ความรู้สึก ความสวยงามของโค้ดและอัลกอริทึม หลอมรวมเข้ากับเทคโนโลยีได้อย่างลงตัว -->
 
-💻 I’m currently learning Front-End, Back-End  
-💻 I’m currently working on Project Manager at Software Park Codecamp and CEO Assistant Thai Programmer Association  
-💻 I really want to be successful with Full stack web developer
+📚 I’m currently learning Front-End, Back-End  
+🏢 I’m currently working on Project Manager  
+🎯 I really want to be successful with Full stack web developer
 
 ## 🚩 contact me
 
