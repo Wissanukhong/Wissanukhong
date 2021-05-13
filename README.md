@@ -1,6 +1,6 @@
 # 👏 Hi there
 
-<img style=" width:1127px; height:344px" src="" alt="profile">
+<img style=" width:1127px; height:344px" src="https://github.com/Wissanukhong/Wissanukhong/blob/master/Picture/banner.png" alt="profile">
 
 ## 📃 About me
 
