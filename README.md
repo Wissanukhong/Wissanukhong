@@ -9,5 +9,5 @@
 
 ## 🚩 contact me
 
-📞 080-742-1388  
+📞 085-541-1474
 📧 wissanu.khong@gmail.com
