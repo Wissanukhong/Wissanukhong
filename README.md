@@ -7,37 +7,25 @@
 🏢 I’m currently working on Project Manager  
 🎯 I really want to be successful with Full stack web developer
 
-## 🚩 contact me
+## Programming language and Management
+
+| Programming           | Management         |
+| --------------------- | ------------------ |
+| HTML, CSS, javaScript | Project management |
+| React.js              | Agile management   |
+| Nodejs ExpressJS      | Scrum master       |
+| MySQL                 |                    |
+| Linux                 |                    |
+
+## My projects
+
+- [My profile](https://wissanukhong.github.io/)
+- [10 projects practice](https://wissanukhong.github.io/10WebsiteProjects/)
+- [Book Recommend](https://wissanukhong.github.io/BooksRecommend/)
+- [Creative Agency](https://wissanukhong.github.io/Creative-Agency-Website/)
+- [Restaurant](https://wissanukhong.github.io/Build-Responsive-Real-World-Websites-with-HTML5-and-CSS3/)
+
+## Contact me
 
 📞 085-541-1474  
 📧 wissanu.khong@gmail.com
-
-# iamapinan 👋
-
-<img src="https://raw.githubusercontent.com/iamapinan/iamapinan/master/Welcome%20to%20iamapinan.png">
-
-| Programming                 | DevOps                               | Management         |
-| --------------------------- | ------------------------------------ | ------------------ |
-| PHP                         | Linux command                        | Project management |
-| WordPress Development       | Docker / Docker Swarm                | Agile management   |
-| Laravel                     | Kubernetes                           | Scrum master       |
-| Nodejs ExpressJS Socket\.io | Rancher                              |                    |
-| React\.js/React Native      | Git                                  |                    |
-| Linux shell script          | Gitlab CI/Github Action/Bitbucket CI |                    |
-| Vuejs                       | VMWare ESXi                          |                    |
-| SASS/LESS                   | Kong API Gateway                     |                    |
-| Lua                         | Nginx                                |                    |
-
-### My Latest Project
-
-- PDPA Consent (WordPress Plugin)
-- WooCommerce Line Notify (WordPress Plugin)
-- Excel Slip (WordPress Plugin)
-
-### Contact me
-
-- Email [iamapinan(at)gmail(dot)com](mailto:iamapinan@gmail.com)
-- Medium https://medium.com/@iamapinan
-- Youtube Channel https://www.youtube.com/channel/UCfBTtP6_vgluRow9iMi-sfg
-- Facebook https://www.facebook.com/9apinan/
-- Podcast https://open.spotify.com/show/5zd6L7d5XjGHfgMl74VFkl
