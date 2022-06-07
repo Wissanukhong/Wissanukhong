@@ -19,7 +19,7 @@
 
 ## My projects
 
-- [My profile](https://wissanukhong.github.io/)
+- [My portfolio](https://wissanukhong.github.io/)
 - [10 projects practice](https://wissanukhong.github.io/10WebsiteProjects/)
 - [Book Recommend](https://wissanukhong.github.io/BooksRecommend/)
 - [Creative Agency](https://wissanukhong.github.io/Creative-Agency-Website/)
