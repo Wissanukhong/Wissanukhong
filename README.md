@@ -1,4 +1,4 @@
-<img style=" width:1127px; height:344px" src="https://github.com/Wissanukhong/Wissanukhong/blob/master/Picture/banner-new.png?raw=true" alt="profile">
+<img style=" width:1127px; height:344px" src="https://github.com/Wissanukhong/Wissanukhong/blob/master/Picture/banner-1.png?raw=true" alt="profile">
 
 ## About me
 
